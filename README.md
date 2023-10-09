@@ -1,10 +1,10 @@
 # NLP_Project
 
-A university group project applying machine learning to horse racing predictions. 
+A university group project applying machine learning to horse racing predictions. Was a collaborative Google Colab notebook so coding styles may vary throughout. 
 
-Scraped numerical and textual data of each horse using BeautifulSoup and Selenium from betting site.
+Used Python and PyTorch as well as the GPU available in the notebook.
 
-Using PyTorch: 
+Scraped numerical and textual data of each horse using BeautifulSoup and Selenium from betting site. 
 
 To embed the text: 
 - fine-tuned a pre-trained BERT model
