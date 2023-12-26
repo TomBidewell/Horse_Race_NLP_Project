@@ -1,6 +1,6 @@
 # NLP_Project
 
-A university group project applying machine learning to horse racing predictions. Was a collaborative Google Colab notebook so coding styles may vary throughout. 
+A university group project applying machine learning to horse racing predictions. This was a collaborative Google Colab notebook so coding styles may vary throughout. 
 
 Used Python and PyTorch as well as the GPU available in the notebook.
 
